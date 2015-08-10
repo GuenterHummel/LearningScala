@@ -9,7 +9,7 @@ import at.co.sbs.gh.scalakungfu.EchoArg;
  * Time: 00:39
  * To change this template use File | Settings | File Templates.
  */
-public class JavaTest {
+public class EchoArgTest {
 
     public static void main (String[] args) {
 
