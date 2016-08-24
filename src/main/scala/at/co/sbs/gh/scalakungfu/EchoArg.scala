@@ -1,12 +1,5 @@
 package at.co.sbs.gh.scalakungfu
 
-/**
- * Created with IntelliJ IDEA.
- * User: GH
- * Date: 07.11.13
- * Time: 00:01
- * To change this template use File | Settings | File Templates.
- */
 object EchoArg {
   def main(args: Array[String]) {
     println("Imperative Arg Print         :")
