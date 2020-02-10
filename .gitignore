@@ -2,3 +2,5 @@
 /.cache-main
 /.cache-tests
 /target/
+/classes
+/.idea/$CACHE_FILE$
