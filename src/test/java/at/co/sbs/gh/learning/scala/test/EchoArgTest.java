@@ -1,6 +1,6 @@
-package at.co.sbs.gh.scalakungfu.test;
+package at.co.sbs.gh.learning.scala.test;
 
-import at.co.sbs.gh.scalakungfu.EchoArg;
+import at.co.sbs.gh.learning.scala.EchoArg;
 
 public class EchoArgTest {
 

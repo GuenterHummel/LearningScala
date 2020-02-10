@@ -1,3 +1,4 @@
 /out/
 /.cache-main
 /.cache-tests
+/target/

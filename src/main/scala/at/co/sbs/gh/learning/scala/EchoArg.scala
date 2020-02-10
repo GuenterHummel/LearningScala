@@ -1,4 +1,4 @@
-package at.co.sbs.gh.scalakungfu
+package at.co.sbs.gh.learning.scala
 
 object EchoArg {
   def main(args: Array[String]) {
